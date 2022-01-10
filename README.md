@@ -1,10 +1,10 @@
 # API-Development Readme
 
-This is the minor project for the API development in Python Language and uses the below tools to create this project
-FastAPI - A web framework for building APIs with Python
-SQLAlchemy - Python SQL toolkit and Object Relational Mapper
-Alembic -  Lightweight database migration tool for usage with the SQLAlchemy Database
-SQL - PostgreSQL
+This is the minor project for the API development in Python Language and uses the below tools nad frameworks to create this project
+1. FastAPI - A web framework for building APIs with Python
+2. SQLAlchemy - Python SQL toolkit and Object Relational Mapper
+3. Alembic -  Lightweight database migration tool for usage with the SQLAlchemy Database
+4. SQL - PostgreSQL for database handling
 
 This project is a prototype for managing posts using API with the functions of creating the posts, deleting, updating, getting all post details, getting posts by ID, like/dislike posts using vote mechanism. The post will only be managed after creating a user(if not exist) or by logging in using email and password.
 
